@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @raphthtech
-- 👀 I’m interested in Software Enginnering
+- 👀 I'm passionate about the web.
+- I have keen interest in Software Enginnering
 - 🌱 I’m currently learning the basics of software engineering
-- 💞️ I’m looking to collaborate with anyone especially to build up my skilss
+- 💞️ I’m looking to collaborate with anyone especially to build up my skills
 - 📫 How to reach me ... https://www.linkedin.com/in/raphael-a-thomas/
 
 <!---
